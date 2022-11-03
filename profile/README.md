@@ -5,8 +5,8 @@ Anime Vsub is a orig Open-source projects that provide free and private viewing 
 ## Project Main
 | Platform | Version Release | Download/Website | Screenshot |
 | :-------------------: | :---------------: | :---------: | :------------------------------: |
-| [For Android](https://github.com/anime-vsub/app) | <img src="https://img.shields.io/github/v/release/anime-vsub/app?color=green&display_name=tag&label=APK" > | https://app.animevsub.ml | <img src="https://github.com/anime-vsub/app/raw/main/meta/screenshoots/Screenshot_2022-10-05-22-28-37-000_git.shin.animevsub.jpg" width="120px"> |
-| [For Desktop](https://github.com/anime-vsub/desktop-web) | <img src="https://img.shields.io/github/package-json/v/anime-vsub/desktop-web/release?color=b&label=release" > | https://animevsub.ml | <img src="https://github.com/anime-vsub/desktop-web/blob/main/meta/screenshoots/2022-11-02%20105058.jpeg" style="max-width: 440px"> | 
+| [For Android](https://github.com/anime-vsub/app) | <img src="https://img.shields.io/github/v/release/anime-vsub/app?color=green&display_name=tag&label=APK" > | https://app.animevsub.ga | <img src="https://github.com/anime-vsub/app/raw/main/meta/screenshoots/Screenshot_2022-10-05-22-28-37-000_git.shin.animevsub.jpg" width="120px"> |
+| [For Desktop](https://github.com/anime-vsub/desktop-web) | <img src="https://img.shields.io/github/package-json/v/anime-vsub/desktop-web/release?color=b&label=release" > | https://animevsub.ga | <img src="https://github.com/anime-vsub/desktop-web/blob/main/meta/screenshoots/2022-11-02%20105058.jpeg" style="max-width: 440px"> | 
 
 <!--
 
