@@ -2,8 +2,6 @@
 
 Anime Vsub is a orig Open-source projects that provide free and private viewing of online Anime!
 
-> Email `contact@animevsub.ga` is temporarily unavailable. If you want to contact please use email ogmo2r3q@duck.com
-
 ## Project Main
 | Platform | Version Release | Download/Website | Screenshot |
 | :-------------------: | :---------------: | :---------: | :------------------------------: |
