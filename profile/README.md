@@ -14,6 +14,7 @@ If you find this project useful please support me through:
 | :------------------: | :--------------------: |
 | [Momo](https://me.momo.vn/tachibshin) | [Timo or Bank](https://anime-vsub.github.io/about/sponsors) |
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P3MM3H6)
 <!--
 
 **Here are some ideas to get you started:**
