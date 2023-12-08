@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Anime Vsub is a orig Open-source projects that provide free and private viewing of online Anime!
+Anime Vsub is a organization Open-source projects that provide free and private viewing of online Anime!
 
 ## Project Main
 | Platform | Version Release | Download/Website | Screenshot |
